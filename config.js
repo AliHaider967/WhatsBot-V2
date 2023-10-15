@@ -1,8 +1,8 @@
 module.exports = {
   profile: {
-    ownerName: "", // defult: AiDarkEzio
-    ownerNumb: "", // defult: 94761539856
-    botName: "", // defult: Whats Bot MD
+    ownerName: "", // defult: ALI HAIDER
+    ownerNumb: "", // defult: 923187560524
+    botName: "", // defult: AK Bot MD
   },
   reply: {
     notFound: "", // defult: "This Command not created. it was creating",
